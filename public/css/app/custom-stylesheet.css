@@ -1,0 +1,12 @@
+.filament-page {
+    max-width: 100%; /* Memperluas lebar halaman */
+    padding: 2rem; /* Memberi sedikit ruang di sekitar */
+}
+
+.filament-form {
+    max-width: 100%; /* Memperluas lebar form */
+}
+
+.filament-wizard-step-content {
+    max-width: 100%; /* Memperluas step wizard */
+}
